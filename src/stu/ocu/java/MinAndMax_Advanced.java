@@ -1,7 +1,5 @@
 package stu.ocu.java;
 
-import java.util.Arrays;
-
 public class MinAndMax_Advanced {
     // 課題4-2(最大値と最小値_少し高度なバージョン)
     public static void main(String[] args) {

@@ -1,7 +1,5 @@
 package stu.ocu.java;
 
-import java.util.Arrays;
-
 public class Hist {
     // 課題4-3 (ヒストグラム)
     public static void main(String[] args) {
