@@ -53,7 +53,7 @@ public class MagicSquare {
         for (int y = 0; y < size; y++) {
             DrawBorder();
             for (int x = 0; x < size; x++) {
-                System.out.printf("|%2s", matrix[x][y]);
+                System.out.printf("|%2d", matrix[x][y]);
             }
             System.out.print("|");
             System.out.println();
