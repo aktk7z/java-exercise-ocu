@@ -28,9 +28,13 @@ Except **Keyboard.java** , which has some common helper method that making it ea
                 │  ParkingCharge.java          -> 課題3-1 (駐車料金)
                 │  
                 └─adv -> 第6回以降の課題(難易度UP)
+                        Dice.java                       -> 演習 (Diceクラス)
+                        DiceSample.java                 -> 演習 (Diceクラス・呼び出し側)
                         Eratosthenes.java               -> 演習 (エラトステネスの篩)
                         Eratosthenes2.java              -> 課題6-2 (エラトステネスの篩の改善)
                         FindSequencePosition.java       -> 課題6-1 (Sub文字列位置検索)
+                        Fraction.java                   -> 課題9-1 (分数クラス)
+                        FractionTest.java               -> 課題9-1 (分数クラス・呼び出し側)
                         MagicSquare.java                -> 課題7-1 (魔方陣)
                         Palindrome.java                 -> 課題8-2 (回文判定ゲーム)
                         Shiritori3.java                 -> 課題8-1 (しりとり3)
@@ -60,3 +64,7 @@ Click class names to jump to the files:
 | 課題7-1 (魔方陣) | <a href="src/stu/ocu/java/adv/MagicSquare.java">MagicSquare</a> |
 | 課題8-1 (しりとり3) | <a href="src/stu/ocu/java/adv/Shiritori3.java">Shiritori3</a> |
 | 課題8-2 (回文判定ゲーム) |<a href="src/stu/ocu/java/adv/Palindrome.java">Palindrome</a> |
+| 演習 (Diceクラス) | <a href="src/stu/ocu/java/adv/Dice.java">Dice</a> |
+| 演習 (Diceクラス・呼び出し側) | <a href="src/stu/ocu/java/adv/DiceSample.java">DiceSample</a> |
+| 課題9-1 (分数クラス) | <a href="src/stu/ocu/java/adv/Fraction.java">Fraction</a> |
+| 課題9-1 (分数クラス・呼び出し側) |<a href="src/stu/ocu/java/adv/FractionTest.java">FractionTest</a> |
